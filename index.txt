@@ -1,3 +1,7 @@
 This is my day
 happy man <3
+<<<<<<< HEAD
 Happ new year
+=======
+Happy birthday
+>>>>>>> f97227010434e99445499be9eaa8f5300ad70527
