@@ -1,5 +1,2 @@
 background : blue
 color : white
-body{
-add - nam
-}
